@@ -1,0 +1,25 @@
+.recipeName {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.foodPic {
+    position: relative;
+    width: 40%;
+    margin-bottom: 20px;
+}
+#ingredientsHead {
+    margin: 10px;
+}
+.ingredients {
+    background-color: rgba(199, 255, 233, 0.51);
+    width: 500px;
+    border-radius: 32px 32px 32px 32px;
+    border: 0 solid #000000;
+    list-style: none;
+}
+.ingredientForm {
+    max-width: 50%;
+}
+.instructionForm {
+    max-width:50%;
+}
